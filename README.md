@@ -13,15 +13,15 @@ The project was built to create my own Excel software. The project uses several 
 6. Several Sheets can be created.
 7. Cell No. and Formula bar are also implemented.
 
-## Screenshotss
+## Screenshots
 <p align="center">
-  <img src="Excel clone\blob\images\Excel1.png"/>
+  <img src="blob\images\Excel1.png"/>
 </p>
 <p align="center">
-  <img src="Excel clone\blob\images\Excel2.png"/>
+  <img src="blob\images\Excel2.png"/>
 </p>
 <p align="center">
-  <img src="Excel clone\blob\images\Excel3.png"/>
+  <img src="blob\images\Excel3.png"/>
 </p>
 
 
