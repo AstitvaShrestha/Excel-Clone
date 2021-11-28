@@ -5,13 +5,13 @@ The project was built to create my own Excel software. The project uses several 
 
 ## Features
 
-1. New, Open and Save functionality is provided.
-2. Font type and size can also be changed.
-3. Bold, Underline and Italics for font styling.
-4. Left, Right, Center and Justify alignment options.
-5. Font color and cell color can be changed
-6. Several Sheets can be created.
-7. Cell No. and Formula bar are also implemented.
+1. **New, Open and Save** functionality is provided.
+2. **Font type and size** can also be changed.
+3. **Bold, Underline and Italics** for font styling.
+4. **Left, Right, Center and Justify** alignment options.
+5. **Font color and cell color** can be changed
+6. **Multiple Sheets** can be created.
+7. **Cell No. and Formula bar** are also implemented.
 
 ## Screenshots
 <p align="center">
